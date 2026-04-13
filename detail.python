@@ -1,0 +1,26 @@
+1.	Project Title 
+Digital Based Shape Generator using Python 
+ 
+2.	Problem Statement 
+To design and implement a Python program that allows users to generate different geometric shapes such as square, rectangle, triangle, pyramid, and diamond using * characters. The program should be interactive and menu-driven, allowing the user to select the shape and size. 
+ 
+3.	Objective 
+•	To simulate basic geometric shapes using programming logic. 
+•	To practice menu-driven programming. 
+•	To understand loops and conditional statements in Python. 
+•	To provide a visual and interactive representation of shapes. 
+ 
+4.	Tools Used 
+•	Python 3 
+•	VS Code / IDLE (for coding and execution) 
+ 
+5.	Description 
+This project allows the user to generate multiple geometric shapes using a simple menu. The shapes include square, rectangle, triangle, pyramid, and diamond. The program takes input for size or dimensions and prints the shapes on the console using * symbols. It is designed to be user-friendly and modular. 
+ 
+6.	Algorithm 
+1.	Display a menu for the user to select the desired shape. 
+2.	Read the user’s choice. 
+3.	Based on the choice: 
+o	Square: Take size and print a square of *. o 	Rectangle: Take rows and columns, then print a rectangle of *. o 	Triangle: Take size and print a right-angled triangle of *. o 	Pyramid: Take size and print a centered pyramid of *. 
+o	Diamond: Take size and print a symmetric diamond of *. 
+4. Repeat until the user chooses to exit. 
